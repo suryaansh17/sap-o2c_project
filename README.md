@@ -106,4 +106,3 @@ The SAP O2C process transforms manual sales operations into an automated and int
 ## 📂 Project Files
 
 * Project Report (PDF)
-* Supporting Screenshots (optional)
